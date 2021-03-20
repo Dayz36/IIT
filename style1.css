@@ -49,9 +49,3 @@ section img {
   object-fit: cover;
   pointer-events: none;
 }
-#text{
-  position: relative;
-  color: #FFF
-  z-index: property;
-  
-}
