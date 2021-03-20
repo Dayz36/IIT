@@ -10,7 +10,7 @@ html, body {
 }
 section id="pageopen"{
   position: relative;
-  width: 100%;
+  width: 90%;
   height: 100vh;
   overflow: hidden;
   display: flex;
@@ -21,7 +21,7 @@ section id="pageopen":before{
   content: '';
   position: absolute;
   bottom:0;
-  width: 100%;
+  width: 90%;
   height: 100px;
   background: linear-gradient(to top, #0a2a43, transparent);
   z-index: 10000;
@@ -32,7 +32,7 @@ section id="pageopen":after{
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 90%;
   height: 100%;
   background:#0a2a43;
   z-index: 10000;
