@@ -40,7 +40,7 @@ section id="pageopen":after{
   z-index: 10000;
   mix-blend-mode: color;
 }
-section id="pageopen" img {
+#starry {
   position: absolute;
   top: 0;
   left: 0;
@@ -54,4 +54,10 @@ section id="pageopen" img {
   color: #FFF
   font-size: 10em;
   z-index: 1;
+}
+div container{
+    font-size: 1em;
+    line-height: 1.4em;
+    margin-bottom: 20px;
+    color: #FFFFFF
 }
