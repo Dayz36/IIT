@@ -40,7 +40,7 @@ section id="pageopen":after{
   z-index: 10000;
   mix-blend-mode: color;
 }
-section img {
+section id="pageopen" img {
   position: absolute;
   top: 0;
   left: 0;
@@ -48,4 +48,10 @@ section img {
   height: 100%;
   object-fit: cover;
   pointer-events: none;
+}
+#text{
+  position:relative;
+  color: #FFF
+  font-size: 10em;
+  z-index: 1;
 }
