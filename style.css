@@ -3,12 +3,21 @@ html, body {
   font-family: 'arial';
   font-size: 1em;
   color: #FFFFFF;
+  width:90%;
+  max-width: 1000px;
+  margin: 30px auto;
 }
 h1{
   font-size:1.5em;
   border-bottom: 1.5px solid #FFFFFF;
   padding: 20px 0 0;
   color: #84DCC6;
+}
+p {
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+  color: #FFFFFF
 }
 a {
   color:#FFFFFF;
@@ -23,10 +32,4 @@ h2{
 h3{
   font-size: 1em;
   color: #84DCC6;
-}
-#container{
-  width:90%;
-  max-width: 1000px;
-  margin: 30px auto;
-
 }
