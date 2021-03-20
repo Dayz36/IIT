@@ -61,3 +61,29 @@ div container{
     margin-bottom: 20px;
     color: #FFFFFF
 }
+h1{
+  font-size:1.5em;
+  border-bottom: 1.5px solid #FFFFFF;
+  padding: 20px 0 0;
+  color: #84DCC6;
+}
+p {
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+  color: #FFFFFF
+}
+a {
+  color:#FFFFFF;
+  font-size: 1em;
+
+}
+h2{
+  font-size: 1.2em;
+  color: #84DCC6;
+
+}
+h3{
+  font-size: 1em;
+  color: #84DCC6;
+}
